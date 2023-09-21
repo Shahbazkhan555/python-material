@@ -1,0 +1,1 @@
+This repo  has all the notes for python from python basics to DSA and and ML Libraries.
